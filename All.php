@@ -16,7 +16,6 @@ class All
 
     const EXCLUDE_DIRS = ['page', '.', '..'];
     const EXCLUDE_FILES = [
-        'www.allitebooks.com\index.html',
         'web-development\index.html',
         'programming\index.html',
         'datebases\index.html',
