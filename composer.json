@@ -1,0 +1,12 @@
+{
+    "name": "jim/test",
+    "authors": [
+        {
+            "name": "jim",
+            "email": "liu1084@163.com"
+        }
+    ],
+    "require": {
+    	"paquettg/php-html-parser": "~1.7.0"
+    }
+}
