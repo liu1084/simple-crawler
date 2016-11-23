@@ -10,8 +10,8 @@ class All
     private $conn;
     const DBHOST = 'localhost';
     const DBPORT = '3306';
-    const USER = 'jim';
-    const PASS = 'livedoor2008';
+    const USER = '';
+    const PASS = '';
     const SEPARATOR = '/';
 
     const EXCLUDE_DIRS = ['page', '.', '..'];
