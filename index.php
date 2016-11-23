@@ -8,7 +8,7 @@
 require_once("All.php");
 
 $all = new All();
-$path = "D:\download\allitebooks.com\www.allitebooks.com";
+$path = "domain-name";
 
 $htmls = $all->readHtml($path);
 foreach($htmls as $i => $html){
